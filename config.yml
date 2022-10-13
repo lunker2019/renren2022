@@ -1,20 +1,20 @@
 # title of website
-title: %NAME%
+title: renren2022
 
 # description of website
-description: %ACTOR%'s navigation site
+description: lunker2019's navigation site
 
 # favicon of website
-favicon: "https://github.com/%ACTOR%.png?size=40"
+favicon: "https://github.com/lunker2019.png?size=40"
 
 # your website url
-url: https://%ACTOR%.github.io/%NAME%/
+url: https://lunker2019.github.io/renren2022/
 
 # github profile url
-github: "https://github.com/%ACTOR%"
+github: "https://github.com/lunker2019"
 
 # footer message
-footer: © 2021-2021 @%ACTOR%
+footer: © 2021-2021 @lunker2019
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
